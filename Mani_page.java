@@ -103,6 +103,7 @@ public class Mani_page {
 					System.out.println("Invalid choice..Please enter Y/N.");
 				}
 				break;
+				//default:	
 			}
 		}
 	}
